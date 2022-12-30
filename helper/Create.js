@@ -1,4 +1,4 @@
-
+// THIS FILE IS NOT USED
 const Create = async (errorCorrectionLevel, dark,light, type, margin, width, url) => {
     console.log("CREATE");
 
